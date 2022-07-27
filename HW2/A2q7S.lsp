@@ -1,0 +1,1 @@
+(defun QUADRATIC (A B C) (LIST ( / (+ (* -1 B) (SQRT (- (* B B) (* 4 A C)))) (* A 2)) ( / (- (* -1 B) (SQRT (- (* B B) (* 4 A C)))) (* A 2))))
